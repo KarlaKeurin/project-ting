@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do TING (Trybe is not Google)!
+# Boas-vindas ao repositório do TING!
 
 Neste projeto implementei um programa que simula um algoritmo de indexação de documentos similar ao do Google. Esse programa é capaz de identificar ocorrências de termos em arquivos _TXT_.
   
@@ -12,6 +12,6 @@ Para isso, o programa desenvolvido tem dois módulos:
 
  - Manipular Deque;
 
- - Manipular Nó & Listas Ligadas e;
+ - Manipular Nó & Listas Ligadas;
 
  - Manipular Listas Duplamente Ligadas.
